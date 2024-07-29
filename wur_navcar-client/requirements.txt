@@ -1,0 +1,22 @@
+mobile-sam @ git+https://github.com/ChaoningZhang/MobileSAM.git@c12dd83cbe26dffdcc6a0f9e7be2f6fb024df0ed
+ultralytics==8.2.2
+onnx==1.16.0
+onnxruntime==1.17.3
+open3d==0.17.0
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+pandas==2.2.2
+pillow==10.3.0
+scipy==1.11.4
+seaborn==0.13.2
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
+yolonnx==0.1.4
+timm
+pyzmq~=25.1.2
+paramiko~=2.8.1
+numpy~=1.26.4
+pyside6~=6.7.0
+qimage2ndarray~=1.10.0
+requests~=2.31.0

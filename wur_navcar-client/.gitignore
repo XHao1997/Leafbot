@@ -1,0 +1,9 @@
+*png
+remote_car/
+**/*cali*/
+**/__pycache__
+**.idea/
+**.ipynb**/
+*.coverage
+*.xml
+*.zip
